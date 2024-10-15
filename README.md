@@ -22,3 +22,5 @@ To see, what's happening here:
 1. Download processing (the official page -> https://processing.org/download/)
 2. Download everything from **folder** `evolution` in this repository
 3. Run **file** `evolution.pde` and watch the evolution by your own eyes (`Isomorph` on right will try to mimic the ideal `Criticus` picture as on left). You can play with some settings in... "settings". To exit click esc.
+
+For mobile you can download and install `evolution.apk` file.
